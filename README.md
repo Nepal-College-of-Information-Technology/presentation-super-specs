@@ -18,5 +18,7 @@ pip install -r requirements.txt
 
 1. Install [presenterm](https://mfontanini.github.io/presenterm/guides/installation.html:)
 2. Run the command
-   `presenterm backpropagation.md`
+   ```bash
+   presenterm backpropagation.md
+   ```
 3. Use arrow keys or vim keys (h, j, k, l) to navigate through the slides
