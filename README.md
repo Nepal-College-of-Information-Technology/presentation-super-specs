@@ -1,6 +1,10 @@
 # Backpropagation
 
 ### Setting up the environment
+0. Clone the repo
+```bash
+git clone https://github.com/Nepal-College-of-Information-Technology/presentation-super-specs
+```
 1. Setup a python virtual environment
 ```bash
 python3 -m venv env
